@@ -1,0 +1,19 @@
+{
+  "name": "email-templates",
+  "version": "1.0.0",
+  "repository": "https://github.com/balozae/email-builder.git",
+  "license": "https://github.com/balozae/email-builder/blob/master/LICENSE.md",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp dist"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-file-include": "^2.1.1",
+    "gulp-inline-css": "^3.5.0",
+    "gulp-sass": "^4.0.2",
+    "rimraf": "^3.0.2"
+  }
+}
